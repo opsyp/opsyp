@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Opeyemi Adetola @Opsyp
 - 👀 I’m interested in Junior/Entry Level Frontend Developer Role
-- I have a good grasp of JavaScript to carryout frontend software development
-- 🌱 I’m currently learning React framework
+- 🌱 I have a good grasp of JavaScript and React Framework to carryout efficient UI development
 - 💞️ I’m looking to collaborate on Web and Mobile Apps development
 - 📫 I can be reached on: opeadetola@gmail.com
 
