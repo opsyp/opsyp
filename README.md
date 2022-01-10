@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Opeyemi Adetola @Opsyp
+- 👋 Hi, I’m Opeyemi Adetola @Opsyp on twitter!
 - 👀 I’m interested in Junior/Entry Level Frontend Developer Role
 - 🌱 I have a good grasp of JavaScript and React Framework to carryout efficient UI development
 - 💞️ I’m looking to collaborate on Web and Mobile Apps development
