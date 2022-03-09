@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Opeyemi Adetola @Opsyp on twitter!
-- 👀 I’m interested in Junior/Entry Level Frontend Developer Role
-- 🌱 I have a good grasp of JavaScript and React Framework to carryout efficient UI development
-- 💞️ I’m looking to collaborate on Web and Mobile Apps development
+- 💞️ I’m looking to collaborate on backend Web and Mobile Apps development 
 - 📫 I can be reached on: opeadetola@gmail.com
+- Node.js, MySql
 
 <!---
 opsyp/opsyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
